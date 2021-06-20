@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "R Pavan",
+      "lastName": "kumar",
+      "email": "pavanr3097@gmail.com",
+      "mobile": 7899211918,
+      "salary": "10000000000000000"
+    },
+    {
+      "id": 3,
+      "firstName": "Pavan",
+      "lastName": "kumar",
+      "email": "pavanr37@gmail.com",
+      "mobile": 7899211918,
+      "salary": "4555656"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
